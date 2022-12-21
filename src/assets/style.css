@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #02326b;
+    color: #92c5e0;
+    font-family: "Lato", sans-serif;
+  }
+  .py-10{
+    padding: 10px 0;
+  }
+  .py-20{
+    padding: 20px 0;
+  }
+  .py-5{
+    padding: 5px 0;
+  }
